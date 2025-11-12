@@ -1,0 +1,11 @@
+{
+	"servers": {
+		"weather": {
+            "command": "python",
+            "args": [
+                "MCP\\Weather_MCP_Server\\weather_server.py"
+            ]
+        }
+	},
+	"inputs": []
+}
