@@ -30,4 +30,6 @@ def get_weather_info(location: str) -> str:
 if __name__ == "__main__":
     # initialize and start the MCP server
     mcp.run()
+
+# print(get_weather_info("dhaka"))
     
